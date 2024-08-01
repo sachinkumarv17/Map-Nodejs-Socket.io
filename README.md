@@ -2,8 +2,6 @@
 
 This project demonstrates a real-time map application using Node.js, Express, and Socket.io. The app allows multiple users to interact with a shared map in real-time, showcasing the power of WebSockets for dynamic data updates.
 
-![Map with Node.js, Express, and Socket.io](./assets/screenshot.png)
-
 ## Features
 
 - Real-time updates of map markers using Socket.io.
